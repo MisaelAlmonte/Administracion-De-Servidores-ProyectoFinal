@@ -1,5 +1,5 @@
 # Administración de Servidores - Proyecto Final 
-#### Administración de Servidores Proyecto Final 'Quality Web Design'   
+#### Administración de Servidores Proyecto Final - Quality Web Design -   
 
 ##### 1. Misael Almonte 17-EISN-1-030
 
